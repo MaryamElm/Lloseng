@@ -1,4 +1,4 @@
-# Lloseng
+# Lloseng...
 This repository contains code available to students using the book Object-Oriented Software Engineering: Practical Software Development using UML and Java, 2nd Edition, 2004 McGraw Hill.  by [Timothy C. Lethbridge](http://www.eecs.uottawa.ca/~tcl) and [Robert Laganière](http://www.eecs.uottawa.ca/~laganier). 
 
 The material originally appeared on the website: http://www.lloseng.com, but is being moved here to be more accessible
